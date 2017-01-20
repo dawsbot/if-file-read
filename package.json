@@ -1,6 +1,6 @@
 {
   "name": "if-file-read",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Return the content of the first file in array",
   "license": "MIT",
   "homepage": "https://github.com/dawsonbotsford/if-file-read#readme",
