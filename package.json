@@ -1,0 +1,44 @@
+{
+  "name": "if-file-read",
+  "version": "0.0.0",
+  "description": "Return the content of the first file in array",
+  "license": "MIT",
+  "homepage": "https://github.com/dawsonbotsford/if-file-read#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawsonbotsford/if-file-read.git"
+  },
+  "author": {
+    "name": "Dawson Botsford",
+    "email": "DawsonBotsford@gmail.com",
+    "url": "dawsonbotsford.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dawsonbotsford/if-file-read/issues"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "documented",
+    "file",
+    "read",
+    "tested",
+    "licensed",
+    "dawson"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true
+  }
+}
